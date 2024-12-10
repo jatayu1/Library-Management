@@ -105,15 +105,3 @@ This project is a Flask-based API for managing a Library Management System. It a
 3. **No Update or Delete Operations**:
    - The current implementation supports only creation and retrieval of books and members.
 
----
-
-## Future Improvements
-1. **Database Integration**:
-   - Use a database (e.g., SQLite, PostgreSQL) for persistent data storage.
-2. **Authentication**:
-   - Implement token-based authentication (e.g., JWT).
-3. **CRUD Enhancements**:
-   - Add support for updating and deleting books and members.
-4. **Pagination**:
-   - Include pagination for fetching large datasets of books or members.
-
