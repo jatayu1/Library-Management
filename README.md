@@ -1,5 +1,5 @@
 ## Project Overview
-This project is a Flask-based API for managing a Library Management System. It allows users to perform CRUD (Create, Read, Update, Delete) operations on books and members. The API also provides the ability to filter books by title or author's name and includes author details when fetching book data.
+This project is a Flask-based API for managing a Library Management System. It allows users to perform Create and Read operations on books and members (Delete and Update will be available on next version). The API also provides the ability to filter books by title or author's name and includes author details when fetching book data.
 
 ---
 
